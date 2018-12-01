@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{103:function(e,a,n){"use strict";n.r(a);var t=n(1),c=n.n(t);a.default=function(){return c.a.createElement("main",{role:"main",className:"inner cover"},c.a.createElement("h1",{className:"cover-heading"},"What I'm making is "),c.a.createElement("p",{className:"lead"},'"Sharing your location with someone."'))}}}]);
+//# sourceMappingURL=1.62290a1c.chunk.js.map
