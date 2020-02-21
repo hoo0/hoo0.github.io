@@ -37,7 +37,7 @@
 			if(currentOS == "android") {
 				// 안드로이드는 미리 만들어둔 iframe에 
 				var invisible_div = document.getElementById("invisible_div");
-				invisible_div.innerHTML = "<iframe src=" + url + " onload="goMarket()"></iframe>";
+				invisible_div.innerHTML = "<iframe src=" + url + " onload='goMarket()'></iframe>";
 			} else if(currentOS == "ios") {
 				setTimeout( function() {
 					goMarket();
